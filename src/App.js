@@ -8,6 +8,11 @@ function App() {
       <header className="App-header">
         <Table />
       </header>
+      <div className="footer-p">
+        <footer>
+          <p>2023 Viktor Ilie</p>
+        </footer>
+      </div>
     </div>
   );
 }
