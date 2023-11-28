@@ -33,6 +33,7 @@ body {
   text-align: center;
   font-size: 26px;
   margin-bottom: 30px;
+  color: rgba(9, 135, 135, 0.8);
 }
 
 table {
@@ -42,13 +43,13 @@ table {
 tr th {
   font-size: 18px;
   padding: 12px;
-  border: 1px solid #eeeeee;
+  border: 1px solid rgba(9, 122, 100, 0.7);
   text-align: left;
-  background-color: rgba(9, 122, 100, 0.7);
+  background-color: rgba(9, 122, 100, 0.3);
 }
 
 tr td {
-  border: 1px solid #eeeeee;
+  border: 1px solid rgba(9, 122, 100, 0.7);
   text-align: left;
 }
 input {
@@ -67,4 +68,10 @@ input:hover {
 input:focus {
   outline: 1px solid #ccc;
   border: 1px solid #ccc;
+}
+
+.footer-p {
+  background-color: rgba(9, 122, 100, 0.7);
+  padding: auto;
+  margin: auto;
 }
