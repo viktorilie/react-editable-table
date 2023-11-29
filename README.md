@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# React Editable Table
+Simple table with inputs and optioned the field to be edited.
+Simple yet functional.
+I use ideas from other experienced developers and try to simplify it.
+Be free to copy and reuse the code.
+Sharing is caring.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
